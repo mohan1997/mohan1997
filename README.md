@@ -60,7 +60,7 @@
           sajjamohan897@gmail.com
         </li>
         <li><a href="https://www.linkedin.com/in/mohansajja/" target="_blank">LinkedIn</a></li>
-        <li><a href="https://www.linkedin.com/in/mohansajja/" target="_blank">My Portfolio</a></li>
+        <li><a href="https://mohan1997.github.io/mohan.portfolio/" target="_blank">My Portfolio</a></li>
       </ul>
     </div>
   </body>
