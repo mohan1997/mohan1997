@@ -9,7 +9,7 @@
         I am Mohan Krishna Sajja, a seasoned Full Stack Developer with extensive
         experience in both backend and frontend technologies.
         <br />
-        <br />I am a seasoned Java Developer with over 8 years of experience specializing in designing, developing, and delivering robust software solutions. My expertise spans across both backend and frontend technologies, enabling me to build seamless and efficient full-stack applications.<br /><br />
+        <br />I am a seasoned Java Developer with Around 7+ years of experience specializing in designing, developing, and delivering robust software solutions. My expertise spans across both backend and frontend technologies, enabling me to build seamless and efficient full-stack applications.<br /><br />
       </p>
       <h4>Exploring Opportunities:</h4>
       <p>
